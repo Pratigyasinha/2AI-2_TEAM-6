@@ -14,9 +14,9 @@ print(classification_report(y_test, y_pred))
 cm = confusion_matrix(y_test, y_pred)
 plt.figure(figsize=(6, 4))
 sns.heatmap(cm, annot=True, fmt='d', cmap='Blues',
-            xticklabels=['Not Diabetic', 'Diabetic'],
-            yticklabels=['Not Diabetic', 'Diabetic'])
-plt.title('Confusion Matrix')
+            xticklabels=['Not Survived', 'Survived'],
+            yticklabels=['Not Survived', 'Survived']
+            }
 plt.xlabel('Predicted')
 plt.ylabel('Actual')
 plt.savefig('chart_confusion_matrix.png')

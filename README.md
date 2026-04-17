@@ -31,3 +31,15 @@ Logistic Regression
 
 ## Conclusion
 The model predicts survival with good accuracy and helps understand passenger survival patterns.
+
+
+
+# MY TEAM MEMBERS CONTRIBUTION:-
+
+1. PRATIGYA(Leader):Logistic Regression model building, training, GitHub integration, final submission
+2. SHUBHAM :- Dataset loading & understanding
+3. AKHIL :-Data preprocessing
+4. ABHAY :- EDA graphs & insights
+5. SATISH :- Model evaluation
+6. PRATIBHA :- Result visualization
+7. LOKESH :- README and documentation
